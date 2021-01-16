@@ -17,8 +17,26 @@
 }
 
 
-nav{
-    background-color:#234a5c;
+nav {
+    background-image: linear-gradient(60deg,#1d5695,#3f6fc2);
+}
+
+
+.fondo{
+    background-image: linear-gradient(60deg,#1d5695,#3f6fc2);
+    background-size:cover;
+    width:100%;
+    border-radius:0% 100% 0% 100% / 56% 0% 100% 44% ;
+
+}
+
+
+.nav-link{
+    color: green;
+}
+
+.text-muted{
+    font-size: 1em;
 }
 
 .color-icon{
@@ -27,7 +45,7 @@ nav{
 }
 
 .barra{
-    background-color:#123231 ;
+    background-image: linear-gradient(60deg,#1d5695,#3f6fc2);
     width: 200px;
 }
 
@@ -86,12 +104,12 @@ contorno:hover{
 }
 
 .piedepagina{
-    background-color:#234a5c;
+    background-image: linear-gradient(60deg,#1d5695,#3f6fc2);
+    border-radius:0% 100% 0% 100% / 100% 23% 77% 0%  ;
+
 }
 
 
-.btn{
-    background-color: #234a5c;
-}
+
 
 
